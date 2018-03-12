@@ -1,2 +1,5 @@
 <!--pages/index.wxml-->
-<text>pages/index.wxml</text>
+<view class = "container">
+    <button class = "btn cet4" catchtap='onCet4'>四级单词</button>
+    <button class = "btn cet6 "catchtap='onCet6'>六级单词</button>
+</view>
