@@ -1,8 +1,12 @@
 {
   "pages": [
     "pages/index",
-    "pages/feedback/feedback",
     "pages/word/cet4/cet4",
+   
+   
+   
+    "pages/feedback/feedback",
+   
     "pages/word/cet6/cet6",
     "pages/search/search"
   ],
@@ -30,8 +34,8 @@
   },
   "window": {
     "backgroundTextStyle": "light",
-    "backgroundColor": "#EFEFF4",
-    "navigationBarBackgroundColor": "#ffff",
+    "backgroundColor": "white",
+    "navigationBarBackgroundColor": "white",
     "navigationBarTitleText": "GG单词",
     "navigationBarTextStyle": "black"
   }

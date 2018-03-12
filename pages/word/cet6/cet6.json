@@ -1,1 +1,4 @@
-{}
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "六级单词"
+}

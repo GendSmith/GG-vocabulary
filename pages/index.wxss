@@ -1,1 +1,9 @@
 /* pages/index.wxss */
+.btn {
+  width: 400rpx;
+  background: #fff;
+  margin-top: 300rpx;
+}
+.btn.cet6 {
+  margin-top: 100rpx;
+}

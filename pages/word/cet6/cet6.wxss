@@ -1,1 +1,39 @@
-/* pages/word/cet6/cet6.wxss */
+
+.cet {
+  display: flex;
+  flex-direction: column;
+  margin-top: 200rpx;
+  align-items: center;
+}
+.word {
+  font-family: Chalkboard;
+  font-size: 80rpx;
+  align-items: center;
+  margin-top: 100rpx;
+}
+.word-definition {
+  margin-top: 50rpx;
+}
+.pron {
+  margin-top: 40rpx;
+  align-items: center;
+}
+.pron-icon {
+  width: 40rpx;
+  height: 40rpx;
+}
+.button {
+  display: flex;
+  flex-direction: column;
+  width: 360rpx;
+  height: 100rpx;
+  border: 2rpx solid #fff;
+  border-radius: 10rpx;
+  align-items: center;
+  margin-top: 70rpx;
+  margin-bottom: 10rpx;
+  background: #fff;
+}
+.button.next {
+  margin-top: 50rpx;
+}
